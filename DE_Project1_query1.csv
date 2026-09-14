@@ -1,0 +1,148 @@
+ORDER_ID,CUSTOMER_NAME,PRODUCT_NAME,CATEGORY,QUANTITY,UNIT_PRICE,LINE_REVENUE,ORDER_DATE
+1,Thabo Mokoena,Floral Summer Dress,Womenswear,1,649.00,649.00,2025-01-15
+2,Nomvula Sithole,Breathable Training Shorts,Activewear,2,249.00,498.00,2025-01-16
+3,Liam Marais,Crewneck Cotton T-Shirt,Menswear,3,199.00,597.00,2025-01-20
+4,Zanele Ndlovu,Classic Denim Jacket,Menswear,1,899.00,899.00,2025-02-05
+5,Pieter Botha,Polarised Sunglasses,Accessories,1,349.00,349.00,2025-02-10
+6,Fatima Patel,Oversized Knit Cardigan,Womenswear,2,499.00,998.00,2025-02-18
+7,Sipho Nkosi,Seamless Running Leggings,Activewear,1,449.00,449.00,2025-02-25
+8,Chantel De Wet,Slim Fit Chino Trousers,Menswear,1,549.50,549.50,2025-03-02
+9,Bongani Dlamini,Leather Dress Belt,Accessories,2,299.00,598.00,2025-03-08
+10,Anrich Potgieter,Linen Button-Down Shirt,Menswear,1,450.00,450.00,2025-03-15
+11,Lerato Molefe,Fleece-Lined Winter Coat,Outerwear,1,1499.00,1499.00,2025-03-25
+12,David Jacobs,High-Waisted Skinny Jeans,Womenswear,2,599.00,1198.00,2025-04-05
+13,Naledi Madlala,Moisture-Wicking Sports Bra,Activewear,3,299.00,897.00,2025-04-12
+14,Willem Van Wyk,Unisex Wool Beanie,Accessories,1,149.00,149.00,2025-04-20
+15,Ayanda Khumalo,Classic Tailored Blazer,Outerwear,1,1199.00,1199.00,2025-04-28
+16,Sarah Naidoo,Pleated Midi Skirt,Womenswear,2,399.50,799.00,2025-05-05
+17,Johan Pretorius,Zip-Up Hooded Track Jacket,Activewear,1,699.00,699.00,2025-05-15
+18,Tendai Moyo,Water-Resistant Windbreaker,Outerwear,1,999.00,999.00,2025-05-22
+19,Nicole Williams,Canvas Everyday Tote Bag,Accessories,4,199.00,796.00,2025-06-03
+20,Muzi Zuma,Padded Puffer Vest,Outerwear,1,799.00,799.00,2025-06-14
+21,Francois Du Plessis,Crewneck Cotton T-Shirt,Menswear,5,199.00,995.00,2025-06-20
+22,Palesa Moroka,Floral Summer Dress,Womenswear,1,649.00,649.00,2025-07-02
+23,Michael Brown,Breathable Training Shorts,Activewear,2,249.00,498.00,2025-07-06
+24,Sibongile Nkomo,Classic Denim Jacket,Menswear,1,899.00,899.00,2025-07-18
+25,Divan Louw,Leather Dress Belt,Accessories,1,299.00,299.00,2025-07-30
+26,Khanyisile Mthembu,Oversized Knit Cardigan,Womenswear,2,499.00,998.00,2025-08-05
+27,Andries Coetzee,Seamless Running Leggings,Activewear,1,449.00,449.00,2025-08-15
+28,Keitumetse Lekota,Slim Fit Chino Trousers,Menswear,1,549.50,549.50,2025-08-25
+29,Bradley Smith,Unisex Wool Beanie,Accessories,3,149.00,447.00,2025-09-02
+30,Zama Cele,High-Waisted Skinny Jeans,Womenswear,1,599.00,599.00,2025-09-18
+31,Tiaan Burger,Polarised Sunglasses,Accessories,1,349.00,349.00,2025-09-22
+32,Amogelang Baloyi,Linen Button-Down Shirt,Menswear,2,450.00,900.00,2025-10-05
+33,Jessica Govender,Zip-Up Hooded Track Jacket,Activewear,1,699.00,699.00,2025-10-12
+34,Ruan Viljoen,Fleece-Lined Winter Coat,Outerwear,1,1499.00,1499.00,2025-10-25
+35,Busisiwe Mazibuko,Pleated Midi Skirt,Womenswear,2,399.50,799.00,2025-11-05
+36,Stefan Smit,Classic Tailored Blazer,Outerwear,1,1199.00,1199.00,2025-11-12
+37,Lungelo Ncube,Moisture-Wicking Sports Bra,Activewear,3,299.00,897.00,2025-11-26
+38,Liezel Meyer,Canvas Everyday Tote Bag,Accessories,2,199.00,398.00,2025-12-05
+39,Sifiso Shongwe,Water-Resistant Windbreaker,Outerwear,1,999.00,999.00,2025-12-12
+40,Nicolette Taylor,Padded Puffer Vest,Outerwear,1,799.00,799.00,2025-12-22
+41,Kabelo Modise,Floral Summer Dress,Womenswear,1,649.00,649.00,2025-12-28
+42,Bianca Green,Crewneck Cotton T-Shirt,Menswear,4,199.00,796.00,2026-01-06
+43,Mxolisi Hlongwane,Breathable Training Shorts,Activewear,2,249.00,498.00,2026-01-15
+44,Christo Swanepoel,Classic Denim Jacket,Menswear,1,899.00,899.00,2026-01-25
+45,Simphiwe Mtshali,Leather Dress Belt,Accessories,1,299.00,299.00,2026-02-05
+46,Zander Fourie,Oversized Knit Cardigan,Womenswear,2,499.00,998.00,2026-02-18
+47,Nthabiseng Moshoeu,Seamless Running Leggings,Activewear,1,449.00,449.00,2026-03-02
+48,Preveshan Pillay,Slim Fit Chino Trousers,Menswear,2,549.50,1099.00,2026-03-12
+49,Wayne Adams,Unisex Wool Beanie,Accessories,1,149.00,149.00,2026-03-26
+51,Thabo Mokoena,Polarised Sunglasses,Accessories,1,349.00,349.00,2025-02-01
+52,Nomvula Sithole,Linen Button-Down Shirt,Menswear,2,450.00,900.00,2025-02-15
+53,Liam Marais,Zip-Up Hooded Track Jacket,Activewear,1,699.00,699.00,2025-02-28
+54,Zanele Ndlovu,Fleece-Lined Winter Coat,Outerwear,1,1499.00,1499.00,2025-03-10
+55,Pieter Botha,Pleated Midi Skirt,Womenswear,2,399.50,799.00,2025-03-20
+56,Fatima Patel,Classic Tailored Blazer,Outerwear,1,1199.00,1199.00,2025-04-01
+57,Sipho Nkosi,Moisture-Wicking Sports Bra,Activewear,3,299.00,897.00,2025-04-15
+58,Chantel De Wet,Canvas Everyday Tote Bag,Accessories,2,199.00,398.00,2025-04-22
+59,Bongani Dlamini,Water-Resistant Windbreaker,Outerwear,1,999.00,999.00,2025-05-02
+60,Anrich Potgieter,Padded Puffer Vest,Outerwear,1,799.00,799.00,2025-05-18
+61,Lerato Molefe,Floral Summer Dress,Womenswear,1,649.00,649.00,2025-06-01
+62,David Jacobs,Crewneck Cotton T-Shirt,Menswear,4,199.00,796.00,2025-06-10
+63,Naledi Madlala,Breathable Training Shorts,Activewear,2,249.00,498.00,2025-06-25
+64,Willem Van Wyk,Classic Denim Jacket,Menswear,1,899.00,899.00,2025-07-05
+65,Ayanda Khumalo,Leather Dress Belt,Accessories,1,299.00,299.00,2025-07-15
+66,Sarah Naidoo,Oversized Knit Cardigan,Womenswear,2,499.00,998.00,2025-08-01
+67,Johan Pretorius,Seamless Running Leggings,Activewear,1,449.00,449.00,2025-08-20
+68,Tendai Moyo,Slim Fit Chino Trousers,Menswear,2,549.50,1099.00,2025-09-01
+69,Nicole Williams,Unisex Wool Beanie,Accessories,1,149.00,149.00,2025-09-15
+70,Muzi Zuma,High-Waisted Skinny Jeans,Womenswear,1,599.00,599.00,2025-10-01
+71,Francois Du Plessis,Polarised Sunglasses,Accessories,1,349.00,349.00,2025-10-10
+72,Palesa Moroka,Linen Button-Down Shirt,Menswear,2,450.00,900.00,2025-10-22
+73,Michael Brown,Zip-Up Hooded Track Jacket,Activewear,1,699.00,699.00,2025-11-01
+74,Sibongile Nkomo,Fleece-Lined Winter Coat,Outerwear,1,1499.00,1499.00,2025-11-15
+75,Divan Louw,Pleated Midi Skirt,Womenswear,2,399.50,799.00,2025-12-01
+76,Khanyisile Mthembu,Classic Tailored Blazer,Outerwear,1,1199.00,1199.00,2025-12-10
+77,Andries Coetzee,Moisture-Wicking Sports Bra,Activewear,3,299.00,897.00,2025-12-20
+78,Keitumetse Lekota,Canvas Everyday Tote Bag,Accessories,2,199.00,398.00,2026-01-05
+79,Bradley Smith,Water-Resistant Windbreaker,Outerwear,1,999.00,999.00,2026-01-12
+80,Zama Cele,Padded Puffer Vest,Outerwear,1,799.00,799.00,2026-01-22
+81,Tiaan Burger,Floral Summer Dress,Womenswear,1,649.00,649.00,2026-02-02
+82,Amogelang Baloyi,Crewneck Cotton T-Shirt,Menswear,4,199.00,796.00,2026-02-10
+83,Jessica Govender,Breathable Training Shorts,Activewear,2,249.00,498.00,2026-02-20
+84,Ruan Viljoen,Classic Denim Jacket,Menswear,1,899.00,899.00,2026-03-01
+85,Busisiwe Mazibuko,Leather Dress Belt,Accessories,1,299.00,299.00,2026-03-12
+86,Stefan Smit,Oversized Knit Cardigan,Womenswear,2,499.00,998.00,2026-03-22
+87,Lungelo Ncube,Seamless Running Leggings,Activewear,1,449.00,449.00,2026-04-02
+88,Liezel Meyer,Slim Fit Chino Trousers,Menswear,2,549.50,1099.00,2026-04-12
+89,Sifiso Shongwe,Unisex Wool Beanie,Accessories,1,149.00,149.00,2026-04-20
+90,Nicolette Taylor,High-Waisted Skinny Jeans,Womenswear,1,599.00,599.00,2026-04-25
+91,Kabelo Modise,Classic Denim Jacket,Menswear,1,899.00,899.00,2026-01-10
+92,Bianca Green,Slim Fit Chino Trousers,Menswear,2,549.50,1099.00,2026-01-12
+93,Mxolisi Hlongwane,Crewneck Cotton T-Shirt,Menswear,3,199.00,597.00,2026-01-18
+94,Christo Swanepoel,Linen Button-Down Shirt,Menswear,1,450.00,450.00,2026-02-01
+95,Simphiwe Mtshali,Floral Summer Dress,Womenswear,1,649.00,649.00,2026-02-14
+96,Zander Fourie,High-Waisted Skinny Jeans,Womenswear,2,599.00,1198.00,2026-02-22
+97,Nthabiseng Moshoeu,Oversized Knit Cardigan,Womenswear,1,499.00,499.00,2026-03-05
+98,Preveshan Pillay,Pleated Midi Skirt,Womenswear,2,399.50,799.00,2026-03-15
+99,Wayne Adams,Seamless Running Leggings,Activewear,1,449.00,449.00,2026-03-28
+101,Thabo Mokoena,Zip-Up Hooded Track Jacket,Activewear,1,699.00,699.00,2025-03-01
+102,Nomvula Sithole,Breathable Training Shorts,Activewear,2,249.00,498.00,2025-03-10
+103,Liam Marais,Unisex Wool Beanie,Accessories,1,149.00,149.00,2025-03-22
+104,Zanele Ndlovu,Leather Dress Belt,Accessories,1,299.00,299.00,2025-04-05
+105,Pieter Botha,Polarised Sunglasses,Accessories,2,349.00,698.00,2025-04-18
+106,Fatima Patel,Canvas Everyday Tote Bag,Accessories,2,199.00,398.00,2025-05-01
+107,Sipho Nkosi,Water-Resistant Windbreaker,Outerwear,1,999.00,999.00,2025-05-12
+108,Chantel De Wet,Fleece-Lined Winter Coat,Outerwear,1,1499.00,1499.00,2025-05-25
+109,Bongani Dlamini,Padded Puffer Vest,Outerwear,1,799.00,799.00,2025-06-05
+110,Anrich Potgieter,Classic Tailored Blazer,Outerwear,1,1199.00,1199.00,2025-06-18
+111,Lerato Molefe,Classic Denim Jacket,Menswear,2,899.00,1798.00,2025-07-02
+112,David Jacobs,Slim Fit Chino Trousers,Menswear,1,549.50,549.50,2025-07-14
+113,Naledi Madlala,Crewneck Cotton T-Shirt,Menswear,4,199.00,796.00,2025-07-28
+114,Willem Van Wyk,Linen Button-Down Shirt,Menswear,1,450.00,450.00,2025-08-08
+115,Ayanda Khumalo,Floral Summer Dress,Womenswear,1,649.00,649.00,2025-08-22
+116,Sarah Naidoo,High-Waisted Skinny Jeans,Womenswear,2,599.00,1198.00,2025-09-05
+117,Johan Pretorius,Oversized Knit Cardigan,Womenswear,1,499.00,499.00,2025-09-19
+118,Tendai Moyo,Pleated Midi Skirt,Womenswear,3,399.50,1198.50,2025-10-02
+119,Nicole Williams,Seamless Running Leggings,Activewear,1,449.00,449.00,2025-10-15
+120,Muzi Zuma,Moisture-Wicking Sports Bra,Activewear,2,299.00,598.00,2025-10-30
+121,Francois Du Plessis,Zip-Up Hooded Track Jacket,Activewear,1,699.00,699.00,2025-11-10
+122,Palesa Moroka,Breathable Training Shorts,Activewear,2,249.00,498.00,2025-11-24
+123,Michael Brown,Unisex Wool Beanie,Accessories,1,149.00,149.00,2025-12-05
+124,Sibongile Nkomo,Leather Dress Belt,Accessories,1,299.00,299.00,2025-12-18
+125,Divan Louw,Polarised Sunglasses,Accessories,1,349.00,349.00,2026-01-04
+126,Khanyisile Mthembu,Canvas Everyday Tote Bag,Accessories,2,199.00,398.00,2026-01-15
+127,Andries Coetzee,Water-Resistant Windbreaker,Outerwear,1,999.00,999.00,2026-01-28
+128,Keitumetse Lekota,Fleece-Lined Winter Coat,Outerwear,1,1499.00,1499.00,2026-02-08
+129,Bradley Smith,Padded Puffer Vest,Outerwear,1,799.00,799.00,2026-02-22
+130,Zama Cele,Classic Tailored Blazer,Outerwear,1,1199.00,1199.00,2026-03-05
+131,Tiaan Burger,Classic Denim Jacket,Menswear,2,899.00,1798.00,2026-03-18
+132,Amogelang Baloyi,Slim Fit Chino Trousers,Menswear,1,549.50,549.50,2026-04-01
+133,Jessica Govender,Crewneck Cotton T-Shirt,Menswear,3,199.00,597.00,2026-04-10
+134,Ruan Viljoen,Linen Button-Down Shirt,Menswear,1,450.00,450.00,2026-04-18
+135,Busisiwe Mazibuko,Floral Summer Dress,Womenswear,1,649.00,649.00,2026-04-22
+136,Stefan Smit,High-Waisted Skinny Jeans,Womenswear,2,599.00,1198.00,2025-06-15
+137,Lungelo Ncube,Oversized Knit Cardigan,Womenswear,1,499.00,499.00,2025-06-28
+138,Liezel Meyer,Pleated Midi Skirt,Womenswear,2,399.50,799.00,2025-07-10
+139,Sifiso Shongwe,Seamless Running Leggings,Activewear,1,449.00,449.00,2025-07-22
+140,Nicolette Taylor,Moisture-Wicking Sports Bra,Activewear,3,299.00,897.00,2025-08-04
+141,Kabelo Modise,Zip-Up Hooded Track Jacket,Activewear,1,699.00,699.00,2025-08-18
+142,Bianca Green,Breathable Training Shorts,Activewear,2,249.00,498.00,2025-09-01
+143,Mxolisi Hlongwane,Unisex Wool Beanie,Accessories,1,149.00,149.00,2025-09-14
+144,Christo Swanepoel,Leather Dress Belt,Accessories,1,299.00,299.00,2025-09-28
+145,Simphiwe Mtshali,Polarised Sunglasses,Accessories,1,349.00,349.00,2025-10-12
+146,Zander Fourie,Canvas Everyday Tote Bag,Accessories,2,199.00,398.00,2025-10-24
+147,Nthabiseng Moshoeu,Water-Resistant Windbreaker,Outerwear,1,999.00,999.00,2025-11-05
+148,Preveshan Pillay,Fleece-Lined Winter Coat,Outerwear,1,1499.00,1499.00,2025-11-18
+149,Wayne Adams,Padded Puffer Vest,Outerwear,1,799.00,799.00,2025-12-01

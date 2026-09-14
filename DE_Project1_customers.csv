@@ -1,0 +1,51 @@
+CUSTOMER_ID,CUSTOMER_NAME,EMAIL,PROVINCE,SIGNUP_DATE
+1,Alice,alice@gmail.com,Gauteng,2025-11-23
+2,Thabo Mokoena,thabo.mokoena@gmail.com,Gauteng,2025-01-10
+3,Nomvula Sithole,nomvula.s@gmail.com,KwaZulu-Natal,2025-01-12
+4,Liam Marais,liam.m@gmail.com,Western Cape,2025-01-15
+5,Zanele Ndlovu,zanele.ndlovu@gmail.com,Gauteng,2025-02-01
+6,Pieter Botha,pieter.b@gmail.com,Free State,2025-02-03
+7,Fatima Patel,fatima.p@gmail.com,Gauteng,2025-02-14
+8,Sipho Nkosi,sipho.nkosi@gmail.com,Mpumalanga,2025-02-20
+9,Chantel De Wet,chantel.dw@gmail.com,Eastern Cape,2025-03-01
+10,Bongani Dlamini,bongani.d@gmail.com,KwaZulu-Natal,2025-03-05
+11,Anrich Potgieter,anrich.p@gmail.com,North West,2025-03-11
+12,Lerato Molefe,lerato.m@gmail.com,Gauteng,2025-03-22
+13,David Jacobs,david.j@gmail.com,Western Cape,2025-04-02
+14,Naledi Madlala,naledi.m@gmail.com,KwaZulu-Natal,2025-04-09
+15,Willem Van Wyk,willem.vw@gmail.com,Northern Cape,2025-04-18
+16,Ayanda Khumalo,ayanda.k@gmail.com,Gauteng,2025-04-25
+17,Sarah Naidoo,sarah.n@gmail.com,KwaZulu-Natal,2025-05-02
+18,Johan Pretorius,johan.p@gmail.com,Limpopo,2025-05-12
+19,Tendai Moyo,tendai.m@gmail.com,Gauteng,2025-05-19
+20,Nicole Williams,nicole.w@gmail.com,Western Cape,2025-06-01
+21,Muzi Zuma,muzi.z@gmail.com,KwaZulu-Natal,2025-06-07
+22,Francois Du Plessis,francois.dp@gmail.com,Gauteng,2025-06-15
+23,Palesa Moroka,palesa.m@gmail.com,Free State,2025-06-29
+24,Michael Brown,michael.b@gmail.com,Eastern Cape,2025-07-04
+25,Sibongile Nkomo,sibongile.n@gmail.com,Mpumalanga,2025-07-11
+26,Divan Louw,divan.l@gmail.com,Western Cape,2025-07-22
+27,Khanyisile Mthembu,khanyi.m@gmail.com,KwaZulu-Natal,2025-08-01
+28,Andries Coetzee,andries.c@gmail.com,North West,2025-08-14
+29,Keitumetse Lekota,kei.l@gmail.com,Gauteng,2025-08-19
+30,Bradley Smith,bradley.s@gmail.com,Western Cape,2025-09-02
+31,Zama Cele,zama.cele@gmail.com,KwaZulu-Natal,2025-09-05
+32,Tiaan Burger,tiaan.b@gmail.com,Gauteng,2025-09-18
+33,Amogelang Baloyi,amo.b@gmail.com,Limpopo,2025-10-01
+34,Jessica Govender,jessica.g@gmail.com,KwaZulu-Natal,2025-10-10
+35,Ruan Viljoen,ruan.v@gmail.com,Free State,2025-10-24
+36,Busisiwe Mazibuko,busi.m@gmail.com,Gauteng,2025-11-02
+37,Stefan Smit,stefan.s@gmail.com,Western Cape,2025-11-11
+38,Lungelo Ncube,lungelo.n@gmail.com,Gauteng,2025-11-20
+39,Liezel Meyer,liezel.m@gmail.com,Eastern Cape,2025-12-01
+40,Sifiso Shongwe,sifiso.s@gmail.com,Mpumalanga,2025-12-05
+41,Nicolette Taylor,nicolette.t@gmail.com,Western Cape,2025-12-14
+42,Kabelo Modise,kabelo.m@gmail.com,North West,2025-12-23
+43,Bianca Green,bianca.g@gmail.com,Gauteng,2026-01-04
+44,Mxolisi Hlongwane,mxolisi.h@gmail.com,KwaZulu-Natal,2026-01-11
+45,Christo Swanepoel,christo.s@gmail.com,Northern Cape,2026-01-20
+46,Simphiwe Mtshali,simphiwe.m@gmail.com,Gauteng,2026-02-02
+47,Zander Fourie,zander.f@gmail.com,Western Cape,2026-02-15
+48,Nthabiseng Moshoeu,nthabi.m@gmail.com,Free State,2026-03-01
+49,Preveshan Pillay,preveshan.p@gmail.com,KwaZulu-Natal,2026-03-10
+50,Wayne Adams,wayne.a@gmail.com,Western Cape,2026-03-24
