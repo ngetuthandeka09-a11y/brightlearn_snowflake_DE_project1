@@ -28,6 +28,26 @@ The project submission consists of the following verified deliverables:
 
 ---
 
+## Validation Screenshots
+
+### Database Schema & Tables
+
+![Database schema showing CUSTOMERS, PRODUCTS, and ORDERS tables](images/database_schema_tables.png)
+
+### Customers Table Row Count
+
+![Customers table row count validation](images/customers_number_of_rows.png)
+
+### Products Table Row Count
+
+![Products table row count validation](images/products_number_of_rows.png)
+
+### Orders Table Row Count
+
+![Orders table row count validation](images/orders_number_of_rows.png)
+
+---
+
 ## Executed Analytical Queries
 
 ### Query 1: Granular Transactional Invoicing
